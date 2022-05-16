@@ -11,6 +11,7 @@ A detailed description is available [here](https://newgen-it.github.io/tests/fro
     
 
 ***Compilation by command - tsc***
+
 Подробное описание задания доступно [здесь](https://newgen-it.github.io/tests/front).
 
 **RU:**
