@@ -13,7 +13,6 @@ export let courses: Course[] = [
 	{ name: 'Courses in France', prices: [null, null] },
 ]
 
-
 let requiredRange1 = [null, 200]
 let requiredRange2 = [100, 350]
 let requiredRange3 = [200, null]
@@ -21,7 +20,6 @@ let requiredRange3 = [200, null]
 filterByPrice(courses, requiredRange1) //?
 filterByPrice(courses, requiredRange2) //?
 filterByPrice(courses, requiredRange3) //?
-
 
 sortByPrice(courses, 'asc') //?
 sortByPrice(courses, 'desc') //?
